@@ -1,4 +1,4 @@
-# pandas_challenge
+# Heros of MyMoli Video Game Analysis
 
 In this challenge I took a csv file of raw data for a gaming company. I was tasked with creating various anlysis based on demographics and purchasing information.  
 
