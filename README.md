@@ -1,6 +1,6 @@
 # Heros of PyMoli Video Game Analysis
 
-Using a raw CSV file from a video game company and pandas, I created various anlysis based on demographics and purchasing information.  
+Using a raw CSV file from a video game company and pandas, I created various analyses based on demographics and purchasing information.  
 
 1. I found the total number of unique gamers and created a data frame. 
 2. I analyzed each individual purchase and found the number of items available for purchase, average purchase price, number of purchases, and total revenue. 
